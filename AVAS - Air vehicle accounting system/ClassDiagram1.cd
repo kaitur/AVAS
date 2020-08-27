@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AVAS___Air_vehicle_accounting_system.AirTransport" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABQAAAAAAAAAAAIAEAQAARAAiAFABQgAQAUEAAAQBA=</HashCode>
+      <FileName>AirTransport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVAS___Air_vehicle_accounting_system.Form1" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QSSSAQEAETAlR9D4EEP4WAhKJUYALgARUUgwAQDSgKo=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVAS___Air_vehicle_accounting_system.Helicopter" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helicopter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVAS___Air_vehicle_accounting_system.PassengerHelicopter">
+    <Position X="1.75" Y="10.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AVAS___Air_vehicle_accounting_system.PassengerHelicopter.HelicopterS92">
+        <TypeIdentifier>
+          <NewMemberFileName>Helicopter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.PassengerHelicopter.HelicopterBell525">
+        <TypeIdentifier>
+          <NewMemberFileName>Helicopter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.PassengerHelicopter.HelicopterPanhaSorena">
+        <TypeIdentifier>
+          <NewMemberFileName>Helicopter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.PassengerHelicopter.HelicopterAvicopterAC3X2">
+        <TypeIdentifier>
+          <NewMemberFileName>Helicopter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helicopter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVAS___Air_vehicle_accounting_system.TransportHelicopter">
+    <Position X="4" Y="10.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AVAS___Air_vehicle_accounting_system.TransportHelicopter.HelicopterMi171">
+        <TypeIdentifier>
+          <NewMemberFileName>Helicopter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.TransportHelicopter.HelicopterKa31">
+        <TypeIdentifier>
+          <NewMemberFileName>Helicopter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.TransportHelicopter.HelicopterKa226">
+        <TypeIdentifier>
+          <NewMemberFileName>Helicopter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.TransportHelicopter.HelicopterKa226T">
+        <TypeIdentifier>
+          <NewMemberFileName>Helicopter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helicopter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVAS___Air_vehicle_accounting_system.CargoPassengerHelicopter">
+    <Position X="6.25" Y="10.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AVAS___Air_vehicle_accounting_system.CargoPassengerHelicopter.HelicopterBK117">
+        <TypeIdentifier>
+          <NewMemberFileName>Helicopter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.CargoPassengerHelicopter.HelicopterAvicopterAC313">
+        <TypeIdentifier>
+          <NewMemberFileName>Helicopter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.CargoPassengerHelicopter.HelicopterAirbusH175">
+        <TypeIdentifier>
+          <NewMemberFileName>Helicopter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.CargoPassengerHelicopter.HelicopterAerospatialeSA360">
+        <TypeIdentifier>
+          <NewMemberFileName>Helicopter.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helicopter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVAS___Air_vehicle_accounting_system.Plane" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVAS___Air_vehicle_accounting_system.PassengerPlane">
+    <Position X="8.5" Y="10.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AVAS___Air_vehicle_accounting_system.PassengerPlane.PlaneBoeing747">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.PassengerPlane.PlaneAirbusA320">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.PassengerPlane.PlaneBombardierCRJ">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.PassengerPlane.PlaneFokker100">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVAS___Air_vehicle_accounting_system.TransportPlane">
+    <Position X="10.75" Y="10.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AVAS___Air_vehicle_accounting_system.TransportPlane.PlaneAn124">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.TransportPlane.PlaneBaslerBT67">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.TransportPlane.PlaneBoeingC17">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.TransportPlane.PlaneAn74">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVAS___Air_vehicle_accounting_system.CargoPassengerPlane">
+    <Position X="13" Y="10.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="AVAS___Air_vehicle_accounting_system.CargoPassengerPlane.PlaneCessna208">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.CargoPassengerPlane.PlaneAn22">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.CargoPassengerPlane.PlaneShort330">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="AVAS___Air_vehicle_accounting_system.CargoPassengerPlane.PlaneAn140">
+        <TypeIdentifier>
+          <NewMemberFileName>Plane.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Plane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVAS___Air_vehicle_accounting_system.Program" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AVAS___Air_vehicle_accounting_system.Properties.Resources" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

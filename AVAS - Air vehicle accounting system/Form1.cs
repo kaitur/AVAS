@@ -363,6 +363,7 @@ namespace AVAS___Air_vehicle_accounting_system
             }
 
             RemoveFromList_button.Enabled = true;
+            SaveListToFile_button.Enabled = true;
         }
 
         private void RemoveFromList_button_Click(object sender, EventArgs e)
@@ -376,6 +377,7 @@ namespace AVAS___Air_vehicle_accounting_system
                     if (listBox1.Items.Count == 0) 
                     {
                         RemoveFromList_button.Enabled = false;
+                        SaveListToFile_button.Enabled = false;
                     }
                 }
                 catch
