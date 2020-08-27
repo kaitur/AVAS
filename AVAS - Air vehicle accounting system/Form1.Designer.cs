@@ -159,6 +159,7 @@
             // 
             // SaveListToFile_button
             // 
+            this.SaveListToFile_button.Enabled = false;
             this.SaveListToFile_button.Location = new System.Drawing.Point(494, 488);
             this.SaveListToFile_button.Name = "SaveListToFile_button";
             this.SaveListToFile_button.Size = new System.Drawing.Size(235, 45);
